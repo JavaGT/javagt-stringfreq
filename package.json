@@ -1,0 +1,15 @@
+{
+  "name": "stringfreq",
+  "version": "1.0.0",
+  "description": "simple frequency inspection for a given string or array of strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frequency",
+    "string"
+  ],
+  "author": "JavaG",
+  "license": "ISC"
+}
